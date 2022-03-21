@@ -13,7 +13,7 @@
 ##### 활용해보기 - 우중충한 날씨를 맑은 날씨로 바꾸기
 
 - 50 epoch
-  ![image-20220322010744769](/Users/sohyeon/Library/Application Support/typora-user-images/image-20220322010744769.png)
+- ![Uploading 스크린샷 2022-03-22 오전 1.10.23.png…]()
 
 - 100 epoch![image-20220322011028764](/Users/sohyeon/Library/Application Support/typora-user-images/image-20220322011028764.png)
 
