@@ -12,8 +12,9 @@
 
 ##### 활용해보기 - 우중충한 날씨를 맑은 날씨로 바꾸기
 
-- 50 epoch
-- ![Uploading 스크린샷 2022-03-22 오전 1.10.23.png…]()
+- 50 epoch!
+- [Uploading 스크린샷 2022-03-22 오전 1.10.23.png…]()
+- <img width="1228" alt="스크린샷 2022-03-22 오전 1 10 23" src="https://user-images.githubusercontent.com/64413742/159304107-4e1b9ab5-61f8-442b-96c4-a0b818346c82.png">
 
 - 100 epoch![image-20220322011028764](/Users/sohyeon/Library/Application Support/typora-user-images/image-20220322011028764.png)
 
